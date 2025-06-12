@@ -1,0 +1,7 @@
+Privacy Policy
+
+OneClick Chain Tools does not collect, store, or transmit any personal data or browsing history. The extension runs locally in the user's browser and only interacts with publicly available wallet address elements on Solscan and BscScan.
+
+No personal data, authentication credentials, or sensitive information is accessed. This extension does not use remote code, and no data is shared with third parties.
+
+Contact: [your-email@example.com]
